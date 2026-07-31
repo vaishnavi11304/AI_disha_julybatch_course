@@ -1,0 +1,252 @@
+ What is Programming?
+
+Answer:
+
+Programming is the process of writing instructions that tell a computer what tasks to perform.
+
+A programming language acts as a medium of communication between humans and computers.
+
+Example:
+If we want a calculator to add two numbers, we write instructions using a programming language like Python.
+
+⸻
+
+Q2. What is Python?
+
+Answer:
+
+Python is a high-level, general-purpose programming language.
+
+It is simple, readable, and versatile.
+
+Python is used in:
+
+• Web Development
+• Data Science
+• Artificial Intelligence
+• Machine Learning
+• Automation
+• IoT
+• Cyber Security
+• Desktop Applications
+
+⸻
+
+Q3. Why is Python called a General-Purpose Programming Language?
+
+Answer:
+
+Python is called a General-Purpose Programming Language because it can be used to develop almost every type of software.
+
+Examples include:
+
+• Websites
+• Desktop Applications
+• AI Applications
+• Machine Learning Models
+• Data Science Projects
+• APIs
+• Automation Scripts
+
+Unlike some programming languages that specialize in one domain, Python can solve problems across multiple domains.
+
+⸻
+
+Q4. Who created Python? Why was it created?
+
+Answer:
+
+Python was created by Guido van Rossum in 1989.
+
+He developed Python as a hobby project.
+
+His goal was to create a programming language that was:
+
+• Easy to read
+• Easy to learn
+• Powerful
+• Less verbose than C and Java
+
+Today, Python is managed by the Python Software Foundation (PSF).
+
+⸻
+
+Q5. Why is Python so popular?
+
+Answer:
+
+Python is popular because:
+
+• Simple syntax
+• Less code
+• Huge standard library
+• Cross-platform support
+• Large community
+• Open source
+• Excellent frameworks
+• Strong AI and Machine Learning ecosystem
+
+Python increases developer productivity.
+
+⸻
+
+Q6. Explain any five features of Python.
+
+Answer:
+
+Some important features of Python are:
+
+• Simple
+• Dynamically Typed
+• Robust
+• Cross Platform
+• Huge Standard Library
+• Extensible
+• Object-Oriented
+• Open Source
+
+Explain any five of these with examples during the interview.
+
+⸻
+
+Q7. What is Dynamic Typing in Python?
+
+Answer:
+
+Python is a dynamically typed language.
+
+It automatically determines the data type of a variable at runtime.
+
+Example:
+
+a = 10
+
+a = “Python”
+
+Here, the variable ‘a’ first stores an integer and later stores a string without requiring any explicit type declaration.
+
+⸻
+
+Q8. Why is Python called a Robust Language?
+
+Answer:
+
+Python is called a robust language because it has strong exception handling.
+
+If an error occurs during program execution, Python generates an Exception and stops the execution instead of producing unpredictable results.
+
+This helps maintain system stability and improves software reliability.
+
+⸻
+
+Q9. What is meant by Cross Platform?
+
+Answer:
+
+Cross Platform means the same Python code can run on different operating systems without significant modifications.
+
+For example, a Python program written on Windows can also run on Linux or macOS, provided Python is installed.
+
+This follows the principle:
+
+“Write Once, Run Anywhere.”
+
+⸻
+
+Q10. What is the Python Standard Library?
+
+Answer:
+
+The Python Standard Library is a collection of built-in modules that come with Python.
+
+It provides ready-to-use functionality for many common programming tasks.
+
+Examples include:
+
+• math
+• random
+• os
+• datetime
+• json
+• csv
+• sqlite3
+
+Using these libraries reduces development time because developers do not need to write everything from scratch.
+
+⸻
+
+Q11. Is Python compiled or interpreted?
+
+Answer:
+
+Python is both compiled and interpreted.
+
+The source code is first compiled into Bytecode, and then the Python Virtual Machine (PVM) interprets the Bytecode.
+
+⸻
+
+Q12. What is the difference between C and Python?
+
+Answer:
+
+C is a statically typed language, whereas Python is dynamically typed.
+
+C requires more code, while Python requires less code.
+
+C is a compiled language, whereas Python is compiled into Bytecode and interpreted by the Python Virtual Machine.
+
+C generally offers faster execution, while Python provides faster development.
+
+C requires manual memory management, whereas Python provides automatic memory management.
+
+⸻
+
+Q13. Why is Python easier than Java?
+
+Answer:
+
+Python is easier than Java because:
+
+• It has simpler syntax.
+• It does not require semicolons.
+• It does not require curly braces.
+• Variable types do not need to be declared explicitly.
+• The code is more readable.
+• Development is faster.
+
+⸻
+
+Q14. Name some companies that use Python.
+
+Answer:
+
+Some popular companies using Python are:
+
+• Google
+• Instagram
+• Netflix
+• Spotify
+• Dropbox
+• NASA
+• Reddit
+• Uber
+• YouTube
+
+⸻
+
+Q15. Where is Python used?
+
+Answer:
+
+Python is widely used in:
+
+• Artificial Intelligence
+• Machine Learning
+• Data Science
+• Web Development
+• Automation
+• Cloud Computing
+• Cyber Security
+• Internet of Things (IoT)
+• Desktop Applications
+• API Development
